@@ -11,5 +11,7 @@
     Password is: 
     <?php echo $_POST["password"]; ?>
 
+    <hr>
+    <center>Copyright @ 2024</center>
     </body>
 </html>
